@@ -1,5 +1,5 @@
 # PasswordManager
-Password Manager is a project built using Python tkinter GUI.  Manage your passwords securely stored in your own device. 
+Password Manager is a project built using Python Tkinter GUI.  Manage your passwords securely stored in your own device. It also has integrated pyclip, so that the saved password that you're searching through, is copied directly into your clipboard.
 # Preview
 Intro<br>
 <img width="423" alt="PasswordManager" src="https://github.com/Kabya002/PasswordManager/assets/90450571/9abe781a-43be-4b81-85f0-527c22fe3984"><br>
